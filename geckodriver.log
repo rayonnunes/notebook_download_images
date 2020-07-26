@@ -1,0 +1,73 @@
+1595724554606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDfIcYu"
+*** You are running in headless mode.
+1595724558072	Marionette	INFO	Listening on port 38123
+1595724558120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595724777378	Marionette	INFO	Stopped listening on port 38123
+1595724946460	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW8cpqq"
+*** You are running in headless mode.
+1595724949376	Marionette	INFO	Listening on port 42895
+1595724949470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595724977279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ7ho7m"
+*** You are running in headless mode.
+1595724980278	Marionette	INFO	Listening on port 40625
+1595724980290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595725052787	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2wtTpa"
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+1595725056362	Marionette	INFO	Listening on port 34685
+1595725056411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1595725111598	Marionette	INFO	Stopped listening on port 34685
+1595725124115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOx9qN6"
+*** You are running in headless mode.
+1595725126897	Marionette	INFO	Listening on port 36463
+1595725126925	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595725148247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9bhnat"
+*** You are running in headless mode.
+1595725151333	Marionette	INFO	Listening on port 42771
+1595725151358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595725291557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexp0F5f"
+*** You are running in headless mode.
+1595725294407	Marionette	INFO	Listening on port 35571
+1595725294467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595725342265	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6kE4a6"
+*** You are running in headless mode.
+1595725345133	Marionette	INFO	Listening on port 46651
+1595725345182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595725379701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT5NmrU"
+*** You are running in headless mode.
+1595725382549	Marionette	INFO	Listening on port 40449
+1595725382615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595725565696	Marionette	INFO	Stopped listening on port 40449
+1595725911353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAHraqh"
+*** You are running in headless mode.
+1595725914229	Marionette	INFO	Listening on port 40051
+1595725914266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595725949530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNU8m7T"
+*** You are running in headless mode.
+1595725952342	Marionette	INFO	Listening on port 40301
+1595725952438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595725976004	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4syC0G"
+*** You are running in headless mode.
+1595725978980	Marionette	INFO	Listening on port 41469
+1595725979018	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595726009295	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVs0PK8"
+*** You are running in headless mode.
+1595726012555	Marionette	INFO	Listening on port 42579
+1595726012610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595726032172	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNX122c"
+*** You are running in headless mode.
+1595726035186	Marionette	INFO	Listening on port 43331
+1595726035291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595726040434	Marionette	INFO	Stopped listening on port 43331
+1595726135147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWLMEEO"
+*** You are running in headless mode.
+1595726137906	Marionette	INFO	Listening on port 39049
+1595726137958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595726143636	Marionette	INFO	Stopped listening on port 39049
+1595726159501	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "--headless" "--disable-gpu" "--disable-dev-shm-usage" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenXd2BB"
+*** You are running in headless mode.
+1595726162339	Marionette	INFO	Listening on port 42237
+1595726162416	Marionette	WARN	TLS certificate errors will be ignored for this session
+1595726167534	Marionette	INFO	Stopped listening on port 42237
